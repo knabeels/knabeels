@@ -1,4 +1,4 @@
-### Hi, I'm Nabeel!
+## Hi 👋, I'm Nabeel!
 🧑🏻‍🎓Studying Computer Science at SZABIST University, Pakistan<br>💭Learning about Data Science and Machine Learning
 
 # 📊 GitHub Stats:
