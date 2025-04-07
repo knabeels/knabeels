@@ -9,6 +9,3 @@
 
 ###
 
-<h2 align="left">I build apps with</h2>
-
-###
