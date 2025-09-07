@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Nabeel  
 
-<!--
-**knabeels/knabeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Scientist | Problem Solver**
 
-Here are some ideas to get you started:
+I’m passionate about **Artificial Intelligence, Machine Learning** — building intelligent systems that go beyond the ordinary.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 What I Do  
+- 🧠 Explore **AI models** from Foundation Models to Transformers  
+- 📊 Build **data pipelines** and dashboards for real-world analytics  
+- ⚡ Experiment with **ML projects** that solve unique problems  
+- 🌍 Open to collaborations in **AI research & innovative startups**
+ 
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Python, SQL, JavaScript  
+- **ML/AI:** Scikit-learn, Numpy, Pandas
+- **Data:** MySQL, PostgreSQL  
+- **Other Tools:** Docker, Git, FastAPI, Streamlit  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](www.linkedin.com/in/knabeel-s)
+
+---
+
+> *“The future belongs to those who design it.”* ✨  
