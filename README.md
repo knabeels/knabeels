@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nabeel  
 
-🚀 **Aspiring Data Scientist | Problem Solver**
+🚀 **Aspiring AI Engineer | Data Scientist | Problem Solver**
 
 I’m passionate about **Artificial Intelligence, Machine Learning** — building intelligent systems that go beyond the ordinary.  
 
