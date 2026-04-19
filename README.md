@@ -14,7 +14,6 @@
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science graduate
-* 💼 Ex Business Intelligence Intern @ Ufone 4G (2023)
 * 🔨 Currently building AI projects independently
 * 🤖 Specialized in AI Engineering & GenAI application development
 * 🏗️ Building conversational AI apps with LangChain and LLMs
